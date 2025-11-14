@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("🚑 Ambulance Dashboard")
+st.write("Active Emergencies: 3")
+st.write("Available Crew: 4")
